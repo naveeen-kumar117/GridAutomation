@@ -1,0 +1,6 @@
+com\flight\pages\Billing_address.class
+com\flight\pages\Payment_Details.class
+com\flight\pages\Flight_Reservation.class
+com\flight\pages\Registration_Confirmation.class
+com\flight\pages\FlightDetails.class
+com\flight\pages\Registration.class
